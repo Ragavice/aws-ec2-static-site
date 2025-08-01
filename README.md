@@ -14,8 +14,7 @@ Launched an EC2 instance using Ubuntu and deployed a simple static website with 
 - Accessible at: http://3.84.26.154
 
 ## Project URL
-
-- Project URL: http://3.84.26.154
+[http://3.84.26.154](http://3.84.26.154)
 
 ## Commands Used
 ```bash

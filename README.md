@@ -11,7 +11,6 @@ Launched an EC2 instance using Ubuntu and deployed a simple static website with 
 
 ## Deployment
 - A simple HTML page was deployed to `/var/www/html/index.html`
-- Accessible at: http://3.84.26.154
 
 ## Project URL
 [http://3.84.26.154](http://3.84.26.154)

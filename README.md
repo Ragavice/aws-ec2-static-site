@@ -12,7 +12,7 @@ Launched an EC2 instance using Ubuntu and deployed a simple static website with 
 ## Deployment
 - A simple HTML page was deployed to `/var/www/html/index.html`
 
-## Project URL
+## [Project URL](https://roadmap.sh/projects/ec2-instance)
 [http://3.84.26.154](http://3.84.26.154)
 
 ## Commands Used

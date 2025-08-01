@@ -13,6 +13,10 @@ Launched an EC2 instance using Ubuntu and deployed a simple static website with 
 - A simple HTML page was deployed to `/var/www/html/index.html`
 - Accessible at: http://3.84.26.154
 
+## Project URL
+
+- Project URL: http://3.84.26.154
+
 ## Commands Used
 ```bash
 sudo apt update && sudo apt install nginx -y

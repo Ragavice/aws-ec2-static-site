@@ -11,7 +11,7 @@ Launched an EC2 instance using Ubuntu and deployed a simple static website with 
 
 ## Deployment
 - A simple HTML page was deployed to `/var/www/html/index.html`
-- Accessible at: http://<your-ec2-public-ip>
+- Accessible at: http://3.84.26.154
 
 ## Commands Used
 ```bash
